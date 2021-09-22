@@ -1,0 +1,31 @@
+The planet runracury has joined the galaxy.
+The planet denzater has joined the galaxy.
+The planet ralnurn has joined the galaxy.
+The planet dinryke has joined the galaxy.
+The planet kounus has joined the galaxy.
+The planet yeorilia has joined the galaxy.
+NAME: denzater
+CLOSEST: ralnurn and runracury
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+Planet out of bounds!
+NAME: kounus
+CLOSEST: yeorilia and dinryke
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: dinryke
+CLOSEST: kounus and ralnurn
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: runracury
+CLOSEST: denzater and yeorilia
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: ralnurn
+CLOSEST: dinryke and denzater
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: yeorilia
+CLOSEST: runracury and kounus
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0

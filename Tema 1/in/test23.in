@@ -1,0 +1,670 @@
+669
+ADD lugnaumia 0 12
+ADD dullaehines 0 12
+ADD icion 0 12
+ADD vinziuq 0 12
+ADD noclite 0 12
+ADD zaunerth 0 12
+ADD llusiphus 0 12
+ADD bozonerth 0 12
+ADD lion2LE8 0 12
+ADD croriaREM 0 12
+ADD zelnuanus 0 12
+ADD holvaulea 0 12
+ADD vellosie 0 12
+ADD dustronoe 0 12
+ADD oagantu 0 12
+ADD zoinerth 0 12
+ADD theecury 0 12
+ADD strumamia 0 12
+ADD cosie9UI 0 12
+ADD chov9E9W 0 12
+ADD rabbaruta 0 12
+ADD yosathea 0 12
+ADD chabyke 0 12
+ADD nedrippe 0 12
+ADD yaeruta 0 12
+RMV 14 7
+ADD thegrearuta 7 4
+RMV 20 2
+EXP 10 2
+COL 14 15
+ADD yovuilia 11 4
+UPG 22 5 2
+BLH 0
+ADD gilminides 19 4
+EXP 19 1
+BLH 14
+RMV 9 1
+EXP 3 2
+UPG 17 3 2
+RMV 16 2
+ADD kiccoiter 22 12
+COL 10 11
+BLH 13
+COL 9 10
+RMV 0 4
+ADD chenvoania 0 12
+ADD hacrumia 17 6
+UPG 13 3 1
+EXP 1 2
+EXP 3 1
+RMV 5 7
+EXP 18 1
+RMV 20 8
+RMV 24 10
+UPG 27 5 1
+RMV 17 1
+ADD alranov 17 6
+BLH 12
+EXP 5 2
+EXP 8 2
+ADD xeleonov 5 14
+EXP 25 1
+RMV 1 11
+RMV 4 6
+UPG 20 3 1
+RMV 15 5
+COL 16 17
+RMV 2 4
+BLH 17
+RMV 4 4
+ADD nichowei 21 14
+BLH 1
+COL 1 2
+EXP 18 1
+BLH 11
+ADD dinneanope 22 4
+RMV 14 3
+RMV 17 1
+RMV 17 4
+RMV 1 10
+RMV 2 2
+ADD endaiturn 20 10
+EXP 8 2
+EXP 12 1
+BLH 6
+RMV 6 3
+COL 14 15
+EXP 3 2
+RMV 4 3
+UPG 16 0 1
+UPG 12 7 1
+BLH 20
+ADD inacury 14 8
+UPG 8 1 2
+COL 0 1
+RMV 12 10
+UPG 24 0 1
+BLH 4
+COL 5 6
+EXP 4 2
+RMV 15 7
+EXP 18 1
+COL 10 11
+UPG 2 4 1
+EXP 10 1
+COL 16 17
+RMV 17 4
+EXP 12 2
+RMV 10 10
+EXP 15 1
+EXP 9 2
+ADD etruehiri 1 9
+BLH 20
+BLH 0
+RMV 18 4
+BLH 16
+BLH 18
+ADD gubrilia 16 15
+RMV 23 4
+ADD zostruphus 13 15
+ADD recuhines 4 14
+EXP 12 1
+BLH 19
+EXP 6 1
+RMV 11 0
+ADD thecrulea 18 9
+EXP 9 1
+ADD kunreapra 25 14
+UPG 22 2 2
+UPG 2 4 1
+RMV 26 6
+RMV 1 0
+EXP 18 1
+UPG 12 5 2
+RMV 10 3
+EXP 2 2
+UPG 23 9 1
+ADD xocragantu 13 11
+BLH 14
+RMV 10 8
+RMV 12 4
+BLH 15
+UPG 17 6 1
+UPG 5 9 2
+BLH 14
+UPG 17 9 1
+COL 9 10
+UPG 8 3 2
+EXP 9 2
+ADD rebrainus 25 14
+RMV 16 1
+BLH 23
+RMV 5 0
+BLH 18
+COL 6 7
+BLH 13
+ADD ezaebos 4 5
+BLH 6
+ADD menaclite 4 13
+COL 10 11
+BLH 7
+EXP 13 1
+EXP 13 2
+BLH 20
+BLH 9
+EXP 15 2
+UPG 3 6 1
+RMV 1 5
+EXP 2 1
+BLH 12
+EXP 10 2
+COL 10 11
+UPG 5 2 1
+ADD pogrophus 0 14
+UPG 13 7 1
+ADD magrunus 4 6
+ADD yelmuania 14 14
+ADD unninov 9 14
+RMV 9 13
+BLH 1
+EXP 0 1
+RMV 18 2
+RMV 12 8
+ADD nundethea 6 7
+RMV 16 5
+RMV 7 1
+ADD nubbeanides 10 10
+RMV 22 9
+ADD relvetis 6 7
+UPG 1 2 2
+RMV 7 6
+ADD semoria 10 15
+RMV 23 3
+RMV 8 2
+ADD emionia 12 10
+UPG 19 4 2
+BLH 22
+UPG 12 7 1
+RMV 6 2
+BLH 4
+EXP 4 1
+UPG 18 10 1
+EXP 16 1
+UPG 4 5 2
+ADD vibeilara 1 4
+RMV 7 5
+UPG 9 9 2
+UPG 26 2 2
+BLH 8
+UPG 10 4 1
+RMV 16 3
+RMV 18 2
+UPG 11 5 1
+EXP 0 2
+BLH 11
+EXP 15 1
+BLH 17
+EXP 10 1
+EXP 15 1
+UPG 19 2 2
+ADD yephuagantu 6 11
+RMV 15 10
+ADD zulraenov 17 7
+EXP 15 1
+RMV 6 0
+RMV 13 11
+EXP 23 2
+EXP 14 2
+EXP 17 2
+BLH 12
+EXP 21 2
+BLH 4
+EXP 23 1
+UPG 0 6 2
+ADD sodeatera 9 4
+ADD thachubos 14 10
+BLH 12
+EXP 24 2
+RMV 12 0
+BLH 13
+EXP 19 2
+COL 7 8
+UPG 19 0 1
+UPG 10 8 2
+UPG 4 10 1
+UPG 3 7 1
+BLH 18
+EXP 5 1
+RMV 18 4
+ADD astruhiri 14 10
+EXP 6 2
+ADD zedoanus 20 6
+UPG 16 1 1
+RMV 9 2
+EXP 25 1
+COL 10 11
+UPG 4 3 2
+EXP 13 1
+UPG 0 3 1
+COL 14 15
+BLH 24
+RMV 13 7
+ADD thacruiter 10 15
+ADD ulrutov 10 9
+EXP 14 1
+EXP 16 2
+ADD yuvocury 16 13
+UPG 9 3 2
+COL 12 13
+UPG 16 0 2
+EXP 25 2
+ADD nisiomia 3 9
+BLH 23
+ADD custraihiri 19 12
+ADD kalliarus 21 8
+EXP 2 1
+COL 1 2
+UPG 24 9 2
+UPG 14 12 1
+BLH 21
+UPG 21 4 2
+EXP 3 2
+UPG 26 2 2
+ADD sulmunus 8 8
+ADD zubrainope 11 10
+UPG 0 4 1
+EXP 20 2
+UPG 17 9 1
+UPG 22 4 2
+ADD thalmainia 24 13
+RMV 16 11
+UPG 25 7 1
+BLH 18
+BLH 12
+RMV 5 11
+BLH 8
+EXP 3 1
+ADD olriutis 20 8
+ADD vilarilia 15 7
+ADD munzeatis 24 11
+UPG 21 1 2
+UPG 24 6 2
+ADD midroinov 20 13
+BLH 11
+UPG 4 7 1
+UPG 1 0 1
+EXP 6 1
+UPG 4 8 1
+RMV 4 0
+ADD mucolea 2 7
+EXP 31 1
+RMV 23 3
+EXP 4 2
+UPG 26 9 1
+EXP 32 2
+RMV 28 5
+BLH 3
+BLH 2
+RMV 18 10
+ADD hodaturn 25 12
+EXP 24 2
+UPG 8 9 2
+UPG 7 1 1
+EXP 14 2
+UPG 5 7 2
+EXP 12 1
+EXP 24 1
+ADD yophuruta 3 13
+RMV 6 2
+BLH 21
+UPG 4 12 1
+COL 0 1
+BLH 14
+BLH 14
+BLH 2
+RMV 14 10
+RMV 9 7
+COL 2 3
+BLH 5
+BLH 22
+ADD vullienov 8 4
+BLH 25
+UPG 24 6 2
+EXP 17 2
+BLH 7
+BLH 4
+EXP 3 1
+RMV 7 8
+ADD mithueyama 15 4
+BLH 10
+EXP 10 1
+COL 5 6
+BLH 14
+RMV 5 3
+EXP 10 1
+BLH 0
+UPG 3 5 2
+RMV 22 7
+RMV 5 0
+RMV 17 10
+COL 1 2
+EXP 1 1
+COL 7 8
+EXP 11 2
+UPG 10 4 1
+ADD dunnauhines 9 9
+UPG 19 10 1
+EXP 3 2
+ADD thevianov 1 6
+ADD enania 2 5
+EXP 17 2
+RMV 9 13
+EXP 21 1
+RMV 5 2
+BLH 17
+BLH 7
+UPG 17 5 1
+RMV 2 0
+BLH 12
+UPG 12 7 1
+EXP 19 1
+BLH 22
+BLH 19
+ADD sonvabos 10 10
+BLH 3
+RMV 16 2
+EXP 19 2
+ADD chiccecury 9 10
+EXP 19 1
+EXP 5 1
+ADD nennuvis 3 13
+UPG 1 0 2
+ADD polunus 20 14
+EXP 18 2
+EXP 22 1
+BLH 17
+UPG 5 2 2
+BLH 13
+UPG 5 4 1
+ADD zalmuigawa 3 4
+UPG 6 2 2
+ADD segaliv 21 4
+BLH 0
+RMV 8 8
+ADD koceithea 6 4
+BLH 22
+ADD cuccuelara 0 6
+COL 2 3
+BLH 17
+BLH 1
+ADD chundobos 19 9
+BLH 20
+COL 13 14
+EXP 19 1
+RMV 3 8
+ADD zetraihiri 18 7
+RMV 0 4
+UPG 5 0 1
+EXP 7 2
+COL 11 12
+UPG 11 6 2
+EXP 19 1
+RMV 1 0
+UPG 8 3 1
+BLH 17
+EXP 15 1
+ADD semuinus 12 9
+COL 2 3
+COL 8 9
+ADD yilriogantu 0 10
+UPG 18 2 2
+EXP 4 2
+UPG 12 0 2
+ADD estruclite 0 10
+RMV 6 1
+BLH 16
+ADD nidania 12 13
+EXP 3 2
+UPG 17 12 2
+BLH 23
+EXP 13 2
+COL 1 2
+ADD xulvoithea 20 15
+ADD chamumia 8 8
+EXP 11 1
+EXP 2 1
+UPG 4 3 2
+COL 0 1
+RMV 16 2
+COL 8 9
+EXP 17 2
+EXP 9 1
+EXP 2 1
+BLH 11
+RMV 20 9
+BLH 21
+COL 8 9
+ADD unuruta 0 15
+EXP 4 1
+EXP 0 1
+UPG 24 1 2
+BLH 0
+BLH 10
+UPG 2 5 2
+BLH 21
+ADD xuzeugawa 12 4
+RMV 13 8
+UPG 12 3 1
+BLH 3
+RMV 11 3
+BLH 13
+COL 5 6
+ADD obenov 13 11
+ADD vozaonides 11 11
+EXP 1 1
+RMV 15 0
+EXP 6 1
+EXP 1 2
+COL 8 9
+ADD luccoutune 15 10
+UPG 7 2 1
+ADD thephenerth 9 10
+ADD chogowei 12 4
+BLH 15
+ADD huvemia 5 5
+UPG 7 2 1
+BLH 11
+COL 12 13
+UPG 23 6 2
+RMV 12 0
+ADD isuter 11 14
+UPG 20 8 1
+EXP 19 1
+RMV 0 3
+BLH 19
+BLH 13
+EXP 12 1
+BLH 4
+ADD banvunov 15 14
+BLH 23
+UPG 6 6 2
+ADD sachenov 6 15
+ADD ognoruta 6 9
+EXP 6 1
+COL 9 10
+COL 2 3
+ADD zuduclite 18 4
+COL 15 16
+ADD yedaonus 25 5
+RMV 7 11
+UPG 5 6 1
+ADD pudoinov 3 13
+COL 14 15
+EXP 0 2
+BLH 5
+UPG 22 12 2
+UPG 3 7 1
+EXP 3 1
+COL 3 4
+BLH 26
+EXP 1 2
+ADD dochuastea 15 15
+ADD chustraocarro 11 10
+BLH 15
+ADD xegnerus 17 10
+UPG 4 2 1
+ADD ozoter 19 11
+BLH 27
+COL 0 1
+ADD zigreitania 15 6
+RMV 1 1
+ADD nidienus 13 10
+ADD lenzetania 1 12
+ADD cagreopra 4 6
+BLH 28
+RMV 16 9
+BLH 13
+UPG 0 2 1
+COL 14 15
+UPG 0 5 2
+RMV 26 0
+COL 16 17
+UPG 26 3 1
+EXP 10 1
+BLH 1
+BLH 11
+ADD chiboiter 6 13
+EXP 4 2
+BLH 16
+EXP 20 1
+UPG 2 6 2
+COL 1 2
+BLH 19
+BLH 4
+COL 8 9
+UPG 19 6 1
+EXP 2 1
+RMV 12 4
+EXP 13 1
+BLH 25
+BLH 7
+EXP 21 2
+EXP 20 2
+RMV 22 0
+EXP 12 1
+UPG 7 8 1
+ADD yecunus 5 6
+BLH 6
+EXP 11 1
+BLH 16
+EXP 15 1
+EXP 20 2
+UPG 5 2 1
+EXP 7 1
+RMV 13 4
+EXP 6 2
+UPG 10 3 2
+RMV 7 9
+UPG 9 5 2
+ADD hiveonope 21 4
+COL 4 5
+RMV 10 9
+BLH 20
+BLH 4
+RMV 9 0
+BLH 20
+BLH 8
+EXP 3 2
+BLH 17
+RMV 15 4
+ADD inveinerth 10 13
+ADD sigruzuno 11 6
+COL 6 7
+BLH 17
+ADD kacahiri 6 7
+ADD gabbuiwei 11 5
+COL 2 3
+BLH 10
+EXP 13 1
+COL 0 1
+COL 9 10
+EXP 6 2
+UPG 5 3 1
+RMV 6 0
+ADD celicarro 17 8
+COL 8 9
+COL 8 9
+UPG 6 6 1
+ADD kudater 5 6
+BLH 22
+BLH 9
+BLH 19
+BLH 5
+BLH 18
+RMV 2 5
+RMV 3 6
+UPG 7 12 2
+EXP 0 2
+RMV 5 7
+UPG 9 4 2
+RMV 5 11
+BLH 16
+EXP 0 1
+BLH 6
+RMV 0 7
+RMV 2 1
+ADD thegruwei 14 11
+ADD dingerilia 15 10
+BLH 6
+RMV 0 5
+ADD dithivis 8 12
+BLH 16
+COL 7 8
+EXP 12 2
+EXP 1 1
+EXP 5 1
+BLH 1
+UPG 1 3 1
+COL 1 2
+UPG 3 0 1
+COL 5 6
+BLH 8
+ADD lilnoacarro 9 11
+BLH 8
+EXP 7 1
+ADD sacounia 14 13
+EXP 3 1
+ADD docreolara 8 13
+RMV 13 2
+BLH 14
+COL 0 1
+EXP 4 2
+EXP 12 2
+BLH 10
+UPG 0 8 2
+BLH 5
+RMV 6 12
+UPG 8 1 2
+UPG 1 3 2
+SHW 7
+SHW 12
+SHW 10
+SHW 6
+SHW 11
+SHW 3
+SHW 5
+SHW 2
+SHW 13
+SHW 9

@@ -1,0 +1,29 @@
+Planet out of bounds!
+The planet Mercury has joined the galaxy.
+The planet Venus has joined the galaxy.
+The planet Earth has joined the galaxy.
+The planet Jupiter has joined the galaxy.
+The planet Saturn has joined the galaxy.
+The planet Uranus has joined the galaxy.
+The planet Neptunus has joined the galaxy.
+The planet Pluto has joined the galaxy.
+The planet Neptunus has been eaten by the vortex.
+NAME: Earth
+CLOSEST: Venus and Jupiter
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: Jupiter
+CLOSEST: Earth and Saturn
+SHIELDS: 1 0 1 1 
+KILLED: 0
+The planet Jupiter has imploded.
+NAME: Saturn
+CLOSEST: Earth and Uranus
+SHIELDS: 1 1 1 2 1 1 1 1 1 0 0 1 
+KILLED: 1
+Planet out of bounds!
+The planet Pluto has joined the galaxy.
+NAME: Pluto
+CLOSEST: Saturn and Uranus
+SHIELDS: 1 1 1 1 
+KILLED: 0

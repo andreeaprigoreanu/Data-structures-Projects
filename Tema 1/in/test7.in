@@ -1,0 +1,22 @@
+21
+ADD onvuruta 0 6
+ADD sacaeter 1 6
+ADD denzeshan 2 6
+EXP 2 10
+EXP 0 8
+RMV 0 2
+EXP 2 2
+EXP 0 8
+EXP 2 6
+EXP 0 7
+RMV 2 1
+EXP 1 0
+EXP 2 6
+EXP 2 10
+RMV 0 2
+EXP 2 0
+EXP 1 8
+EXP 1 7
+SHW 2
+SHW 1
+SHW 0

@@ -1,0 +1,67 @@
+Copyright 2021 Andreea Prigoreanu
+
+    Am implementat structura generica hashtable_t, dupa scheletul de laborator.
+In structura memory_server am inclus campul products, care reprezinta un
+hashtable in care sunt stocate perechile key-value asociate fiecarui produs de
+pe server.
+
+    In structura load_balancer am inclus 3 campuri: num_servers(de tipul
+unsigned int, retine numarul total de replici de servere de pe hashring),
+servers (un vector de pointeri la structuri de tipul memory_server, in care
+fiecare pozitie contine un pointer la serverul cu id-ul egal cu pozitia) si
+hashring(un vector de elemente de tipul unsigned int, in care sunt stocate
+etichetele replicilor serverelor din sistem, ordonate crescator dupa hash-ul
+etichetelor).
+    
+    In fisierul hashring.h am implementat 3 functii utilizate in
+efectiuarea operatilor specifice load balancer-ului:
+    - find_position: returneaza pozitia in hashring a primei etichete de server
+cu hashul mai mare sau egal cu hashul dat ca parametru.
+    - add_element: insereaza eticheta serverului pe pozitia data din hashring.
+    - delete_element: sterge din hashring eticheta serverului de pe pozitia
+data.
+
+    Am adaugat scheletului de cod din load_balancer doua functii ajutatoare:
+    - move_keys_load: functia primeste ca parametru pozitia pe care trebuie
+introdusa o replica pe hashring si gaseste vecinii. Apar trei cazuri:
+        1. serverul trebuie introdus pe prima pozitie in hashring - in acest caz
+    se transfera pe noul server cheile care au hash-ul mai mare decat hash-ul
+    etichetei replicii de pe ultima pozitie un hashring si decat al replicii
+    aflate la momentul curent pe pozitia 0.
+        2. serverul trebuie introdus pe prima pozitie in hashring - in acest caz
+    se transfera pe noul server cheile vecinului urmator care au hash-ul mai mic
+    decat hash-ul etichetei noii replici introduse si mai mare decat hash-ul
+    etichetei replicii de pe ultima pozitie un hashring.
+        3. serverul trebuie introdus pe o pozitie din interiorul hashringului -
+    in acest caz se transfera pe noul server cheile vecinului urmator care au
+    hash-ul mai mic decat hash-ul etichetei noii replici introduse si mai mare
+    decat hash-ul etichetei replicii de pe pozitia anterioara in hashring.
+    - move_keys_remove: functia primeste ca parametru pozitia de pe care
+trebuie stearsa o replica de pe hashring si gaseste vecinii etichetei. Apar
+trei cazuri:
+        1. serverul trebuie sters de pe prima pozitie din hashring - in acest caz
+    se transfera pe serverul succesor cheile care au hash-ul mai mare decat
+    hash-ul etichetei replicii de pe ultima pozitie un hashring si decat
+    hash-ul noii replici adaugate.
+        2. serverul trebuie sters de pe prima pozitie din hashring - in acest caz
+    se transfera pe serverul succesor cheile care au hash-ul mai
+    mic decat hash-ul etichetei noii replici introduse si mai mare decat hash-ul
+    etichetei replicii de pe ultima pozitie un hashring.
+        3. serverul trebuie sters pe o pozitie din interiorul hashringului -
+    in acest caz se transfera pe serverul succesor cheile vecinului urmator
+    care au hash-ul mai mic decat hash-ul etichetei noii replici introduse si
+    mai mare decat hash-ul etichetei replicii de pe pozitia anterioara in
+    hashring.
+
+    Implementarea functiilor din fisierul load_balancer.c:
+    - loader_store: calculeaza pozitia in hashring serverului pe care se afla
+cheia data (folosind functia find_position) si apeleaza functia server_store.
+    - loader_retrieve: calculeaza pozitia in hashring serverului pe care se
+afla cheia data (folosind functia find_position) si apeleaza functia
+server_retrieve.
+    - loader_add_server: calculeaza pozitia pe care trebuie introdusa fiecare
+replica a serverului in hashring (folosind functia find_position) si apeleaza
+functia move_keys_load pentru fiecare replica.
+    - loader_remove_server: calculeaza pozitia pe care se afla trebuie fiecare
+replica a serverului (folosind functia find_position) si apeleaza functia
+move_keys_remove pentru fiecare replica.

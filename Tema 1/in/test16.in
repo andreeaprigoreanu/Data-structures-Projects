@@ -1,0 +1,11 @@
+10
+ADD ennounides 0 8
+ADD punaruta 1 8
+ADD recides 2 8
+COL 0 1
+ROT 1 c 1
+COL 0 1
+COL 0 1
+ROT 0 t 1
+COL 0 1
+SHW 0

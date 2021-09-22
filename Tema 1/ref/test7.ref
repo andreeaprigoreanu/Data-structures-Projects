@@ -1,0 +1,15 @@
+The planet onvuruta has joined the galaxy.
+The planet sacaeter has joined the galaxy.
+The planet denzeshan has joined the galaxy.
+NAME: denzeshan
+CLOSEST: sacaeter and onvuruta
+SHIELDS: 1 1 1 1 1 10 2 6 6 10 0 
+KILLED: 0
+NAME: sacaeter
+CLOSEST: onvuruta and denzeshan
+SHIELDS: 1 1 1 1 1 1 0 8 7 
+KILLED: 0
+NAME: onvuruta
+CLOSEST: denzeshan and sacaeter
+SHIELDS: 1 1 1 1 8 8 7 
+KILLED: 0

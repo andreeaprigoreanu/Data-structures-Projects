@@ -1,0 +1,50 @@
+The planet thaduiruta has joined the galaxy.
+The planet thecoipra has joined the galaxy.
+The planet tigairia has joined the galaxy.
+The planet tholvaoter has joined the galaxy.
+The planet lalrueyama has joined the galaxy.
+The planet mociuturn has joined the galaxy.
+The planet rondanope has joined the galaxy.
+The planet xobeupra has joined the galaxy.
+The planet xivuania has joined the galaxy.
+The planet lophionerth has joined the galaxy.
+NAME: rondanope
+CLOSEST: xobeupra and lalrueyama
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: thaduiruta
+CLOSEST: tigairia and lophionerth
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: tigairia
+CLOSEST: thecoipra and thaduiruta
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: tholvaoter
+CLOSEST: mociuturn and thecoipra
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: mociuturn
+CLOSEST: xivuania and tholvaoter
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: thecoipra
+CLOSEST: tholvaoter and tigairia
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: xobeupra
+CLOSEST: lophionerth and rondanope
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: lophionerth
+CLOSEST: thaduiruta and xobeupra
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: xivuania
+CLOSEST: lalrueyama and mociuturn
+SHIELDS: 1 1 1 1 1 
+KILLED: 0
+NAME: lalrueyama
+CLOSEST: rondanope and xivuania
+SHIELDS: 1 1 1 1 1 
+KILLED: 0

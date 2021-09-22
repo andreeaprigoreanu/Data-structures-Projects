@@ -1,0 +1,16 @@
+The planet suneanus has joined the galaxy.
+The planet ecenus has joined the galaxy.
+The planet ilrore has joined the galaxy.
+NAME: ecenus
+CLOSEST: suneanus and ilrore
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: suneanus
+CLOSEST: ilrore and ecenus
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: ilrore
+CLOSEST: ecenus and suneanus
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+Planet out of bounds!

@@ -1,0 +1,11 @@
+10
+ADD venkitania 0 6
+ADD omeostea 1 6
+RMV 1 1
+RMV 1 4
+RMV 0 0
+RMV 1 2
+RMV 0 1
+RMV 0 0
+SHW 1
+SHW 0

@@ -1,0 +1,50 @@
+The planet yavoanope has joined the galaxy.
+The planet zucroanope has joined the galaxy.
+The planet nigrarth has joined the galaxy.
+The planet xenzarth has joined the galaxy.
+The planet eatania has joined the galaxy.
+The planet ranus has joined the galaxy.
+The planet drugerilia has joined the galaxy.
+The planet travonia has joined the galaxy.
+The planet zindaB2W8 has joined the galaxy.
+The planet strionL1O has joined the galaxy.
+The planet strionL1O has been eaten by the vortex.
+The planet dolvamia has joined the galaxy.
+The planet zucroanope has been eaten by the vortex.
+The planet yavoanope has been eaten by the vortex.
+The planet zindaB2W8 has been eaten by the vortex.
+The planet tulmiamia has joined the galaxy.
+The planet eatania has been eaten by the vortex.
+The planet gitroilara has joined the galaxy.
+The planet olleiter has joined the galaxy.
+The planet travonia has imploded.
+The planet drugerilia has imploded.
+NAME: xenzarth
+CLOSEST: tulmiamia and gitroilara
+SHIELDS: 1 0 1 0 1 
+KILLED: 0
+NAME: gitroilara
+CLOSEST: xenzarth and olleiter
+SHIELDS: 1 1 1 1 
+KILLED: 0
+NAME: tulmiamia
+CLOSEST: ranus and xenzarth
+SHIELDS: 1 1 1 1 
+KILLED: 0
+NAME: ranus
+CLOSEST: dolvamia and tulmiamia
+SHIELDS: 1 0 1 0 1 
+KILLED: 0
+NAME: nigrarth
+CLOSEST: olleiter and dolvamia
+SHIELDS: 1 1 1 0 1 2 
+KILLED: 0
+NAME: dolvamia
+CLOSEST: nigrarth and ranus
+SHIELDS: 1 0 1 1 2 2 
+KILLED: 0
+Planet out of bounds!
+NAME: olleiter
+CLOSEST: gitroilara and nigrarth
+SHIELDS: 1 1 1 1 
+KILLED: 0

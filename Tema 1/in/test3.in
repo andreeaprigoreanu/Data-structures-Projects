@@ -1,0 +1,24 @@
+23
+ADD ilearus 0 10
+ADD dibohines 1 10
+ADD gagrides 2 10
+ADD sunillon 3 10
+UPG 1 2 3
+UPG 2 3 4
+UPG 3 4 5
+UPG 0 1 2
+ROT 3 t 3
+ROT 1 c 1
+ROT 2 c 2
+ROT 0 v 1
+ROT 2 t 2
+ROT 0 c 1
+ROT 2 v 1
+ROT 3 t 3
+ROT 3 v 4
+ROT 0 c 1
+SHW 3
+SHW 2
+SHW 4
+SHW 0
+SHW 1

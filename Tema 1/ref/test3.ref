@@ -1,0 +1,24 @@
+The planet ilearus has joined the galaxy.
+The planet dibohines has joined the galaxy.
+The planet gagrides has joined the galaxy.
+The planet sunillon has joined the galaxy.
+Not a valid direction!
+Not a valid direction!
+Not a valid direction!
+NAME: sunillon
+CLOSEST: gagrides and ilearus
+SHIELDS: 1 1 1 1 1 1 1 1 6 1 
+KILLED: 0
+NAME: gagrides
+CLOSEST: dibohines and sunillon
+SHIELDS: 1 1 1 5 1 1 1 1 1 1 
+KILLED: 0
+Planet out of bounds!
+NAME: ilearus
+CLOSEST: sunillon and dibohines
+SHIELDS: 1 1 1 3 1 1 1 1 1 1 
+KILLED: 0
+NAME: dibohines
+CLOSEST: ilearus and gagrides
+SHIELDS: 1 1 1 4 1 1 1 1 1 1 
+KILLED: 0

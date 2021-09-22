@@ -1,0 +1,50 @@
+The planet chedroliv has joined the galaxy.
+The planet hibeorus has joined the galaxy.
+The planet unvade has joined the galaxy.
+The planet thonvichi has joined the galaxy.
+The planet mueter has joined the galaxy.
+The planet iter has joined the galaxy.
+The planet guhonerth has joined the galaxy.
+The planet lurocury has joined the galaxy.
+The planet phonoeZ2O3 has joined the galaxy.
+The planet saguaFDF has joined the galaxy.
+NAME: mueter
+CLOSEST: thonvichi and iter
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: lurocury
+CLOSEST: guhonerth and phonoeZ2O3
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: hibeorus
+CLOSEST: chedroliv and unvade
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: thonvichi
+CLOSEST: unvade and mueter
+SHIELDS: 1 1 1 2 1 1 1 1 1 1 
+KILLED: 0
+NAME: phonoeZ2O3
+CLOSEST: lurocury and saguaFDF
+SHIELDS: 1 1 1 1 10 3 1 1 1 1 
+KILLED: 0
+NAME: iter
+CLOSEST: mueter and guhonerth
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: unvade
+CLOSEST: hibeorus and thonvichi
+SHIELDS: 1 1 1 1 1 1 4 1 1 1 
+KILLED: 0
+NAME: chedroliv
+CLOSEST: saguaFDF and hibeorus
+SHIELDS: 1 101 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: saguaFDF
+CLOSEST: phonoeZ2O3 and chedroliv
+SHIELDS: 1 1 1 1 1 1 1 1 1 1 
+KILLED: 0
+NAME: guhonerth
+CLOSEST: iter and lurocury
+SHIELDS: 1 1 3 1 1 1 1 1 1 8 
+KILLED: 0

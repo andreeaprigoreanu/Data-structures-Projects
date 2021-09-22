@@ -1,0 +1,12 @@
+The planet enurilia has joined the galaxy.
+The planet totrunus has joined the galaxy.
+The planet nalmov has joined the galaxy.
+The planet enurilia has imploded.
+NAME: totrunus
+CLOSEST: nalmov
+SHIELDS: 0 1 1 0 
+KILLED: 1
+NAME: nalmov
+CLOSEST: totrunus
+SHIELDS: 1 1 1 1 
+KILLED: 0

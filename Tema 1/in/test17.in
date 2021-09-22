@@ -1,0 +1,19 @@
+18
+ADD ochounides 0 12
+ADD ulalara 1 12
+ADD hobrypso 2 12
+ADD helars 3 12
+ADD nonope 4 12
+ADD hivis 5 12
+ROT 4 t 1
+COL 2 3
+COL 0 1
+COL 3 4
+COL 1 2
+COL 0 1
+COL 5 0
+ROT 5 c 6
+ROT 2 c 2
+COL 4 5
+SHW 2
+SHW 4

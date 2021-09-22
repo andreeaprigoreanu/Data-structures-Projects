@@ -1,0 +1,23 @@
+22
+ADD ralmainus 0 9
+ROT 0 c 9
+SHW 0
+ROT 0 c 0
+SHW 0
+EXP 0 7
+SHW 0
+ROT 0 t 9
+SHW 0
+ROT 0 t 7
+SHW 0
+EXP 0 9
+SHW 0
+ROT 0 c 1
+SHW 0
+EXP 0 5
+SHW 0
+EXP 0 3
+SHW 0
+ROT 0 t 2
+SHW 0
+SHW 0

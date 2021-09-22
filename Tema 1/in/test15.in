@@ -1,0 +1,14 @@
+12
+ADD chuzorilia 0 8
+ADD nulnaemia 1 8
+ADD endov 2 8
+COL 2 0
+ROT 0 c 4
+ROT 1 t 4
+COL 0 1
+EXP 1 1
+EXP 2 1
+ROT 1 c 4
+COL 0 1
+SHW 1
+

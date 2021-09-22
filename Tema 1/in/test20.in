@@ -1,0 +1,23 @@
+22
+SHW 0
+ADD Mercury 0 4
+ADD Venus 1 8
+ADD Earth 2 12
+ADD Jupiter 3 4
+ADD Saturn 4 12
+ADD Uranus 5 8
+ADD Neptunus 6 5
+ADD Pluto 7 9
+BLH 6
+ROT 2 c 5
+ROT 3 t 4
+SHW 2
+UPG 4 2 1
+COL 3 4
+SHW 3
+ROT 4 c 1
+COL 3 4
+SHW 3
+SHW 6
+ADD Pluto 4 4
+SHW 4

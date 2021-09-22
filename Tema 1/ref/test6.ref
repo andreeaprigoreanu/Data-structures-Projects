@@ -1,0 +1,12 @@
+The planet venkitania has joined the galaxy.
+The planet omeostea has joined the galaxy.
+A planet cannot have less than 4 shields!
+A planet cannot have less than 4 shields!
+NAME: omeostea
+CLOSEST: venkitania
+SHIELDS: 1 1 1 1 
+KILLED: 0
+NAME: venkitania
+CLOSEST: omeostea
+SHIELDS: 1 1 1 1 
+KILLED: 0

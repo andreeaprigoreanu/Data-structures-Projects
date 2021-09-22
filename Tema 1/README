@@ -1,0 +1,42 @@
+    Pentru implementarea structurii generice lista circulara dublu inlantuita
+am utilizat scheletul de laborator, la care am adaugat 3 noi functii:
+    - dll_upgrade_int_list: adauga o anumita valoare nodului de pe pozitia n
+din lista (doar pentru liste care stocheaza int-uri)
+    - dll_rotate_trig: roteste lista data in sens trigonometric cu un numar de
+unitati
+    - dll_rotate_clk: roteste lista data in sesul acelor de ceasornic cu un
+numar de unitati.
+
+    In fisierul Planet.h este definita structura de date planet_t, avand
+campurile: name(pointer de tip char), destroyed_planets(numarul de planete
+distruse, de tip int) si shields(pointer la o lista circulara dublu inlantuita
+de int-uri), alaturi de declararea functiilor specifice structurii.
+Implementarea functiilor se afla in fisierul Planet.c :
+    - create_planet: pentru alocarea si initializarea unei structuri de tip
+planet_t
+    - free_planet: elibereaza memoria folosita de structura planet_t.
+
+    O galaxie este implementata ca o structura de tip lista circulara dublu
+inlantuita cu noduri de tip planet_t. 
+    In fisierul GalaxyWar.h se afla declaratiile functiilor corespunzatoare
+actiuniilor care se pot realiza intr-o galaxie. Implementarea acestora se afla
+in fisierul GalaxyWar.c :
+    - add: adauga o noua planeta pe o anumita pozitie in galaxie.
+    - black_hole: extrage nodul de tip planet_t de pe pozitia index_planet din
+lista galaxy, iar apoi elibereaza memoria alocata pentru datele planetei si
+pentru structura planeta.
+    - upgrade_shield: aduna o anumita valoare la valoarea scutului de pe
+pozitia index_shield in lista de scuturi a planetei de pe pozitia index_planet
+din lista galaxy.
+    - expand_shield: elimina scutul de pe pozitia index_shield in lista de
+scuturi a planetei de pe pozitia index_planet din lista galaxy.
+    - collide: realizeaza coliziunea dintre planetele aflate pe pozitiile
+index_planet1 si index_planet2 in galaxie.
+    - rotate_shield: realizeaza rotirea scutului planetei de pe pozitia
+index_planet in sensul acelor de ceasornic sau un sens trigonometric
+(directia c sau t) cu un numar de unitati units.
+    - show_info: afiseaza informatii despre planeta aflata pe pozitia
+index_planet in galaxie
+
+    In sursa main.c se citesc actiunile care vor fi realizate in galaxie si se
+apeleaza functiile corespunzatoare.

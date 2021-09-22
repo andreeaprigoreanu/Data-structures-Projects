@@ -1,0 +1,19 @@
+18
+ADD segnatune 0 4
+ADD tocrestea 1 4
+ADD talnuna 2 4
+ADD gubbichi 3 4
+ADD zaetera 4 4
+ADD soaphus 5 4
+ADD stredaria 6 4
+ADD thazilia 7 4
+ADD moth7L9M 8 4
+ADD nadusRV2 9 4
+COL 3 4
+COL 8 9
+COL 0 1
+COL 6 7
+COL 5 6
+SHW 8
+SHW 1
+SHW 9

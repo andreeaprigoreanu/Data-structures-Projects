@@ -1,0 +1,9 @@
+8
+ADD enurilia 0 4
+ADD totrunus 1 4
+ADD nalmov 2 4
+COL 0 1
+ROT 1 c 1
+COL 0 1
+SHW 0
+SHW 1
